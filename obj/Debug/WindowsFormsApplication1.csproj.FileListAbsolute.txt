@@ -1,0 +1,13 @@
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.authServerPage.resources
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.servicePage.resources
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ticketGrantingServerPage.resources
+C:\Users\Jnoh\Desktop\Ass바로가기\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mainPage.resources
